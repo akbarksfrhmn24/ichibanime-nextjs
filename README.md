@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Requirements
+
+1. Nodejs v16.17
+2. Code Editor
+
+# Clone this repository to your own Computer
+```bash
+git clone <url-repository>
+```
+
+## Run this command below
+Run this command after you clone this repository
+```bash
+npm install
+```
+
 ## Getting Started
 
 First, run the development server:
